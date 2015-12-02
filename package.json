@@ -15,7 +15,7 @@
     "docker.io"
   ],
   "dependencies": {
-    "docker-modem": "0.2.x"
+    "docker-modem": "briceburg/docker-modem#patch-1"
   },
   "devDependencies": {
     "chai": "~1.7.0",
